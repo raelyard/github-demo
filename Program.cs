@@ -7,6 +7,9 @@ namespace github_demo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Chicago!");
+            Console.WriteLine("Hello asdf!");
+            Console.WriteLine("Hello everyone!");
         }
     }
 }
